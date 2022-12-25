@@ -43,24 +43,24 @@ echo ' <div id="reg-head-fail" class="headrg">Registration Failed! <br> Error: '
 <div align="left" id="tb-name">First&nbsp;Name:</div>
 </td>
 <td width="171">
-<input type="text" name="fname" id="tb-box1"/>
+<input type="text" name="fname" id="tb-box"/>
 </td>
 </tr>
 <tr>
 <td class="t-1"><div align="left" id="tb-name">Last&nbsp;Name:</div></td>
-<td><input type="text" name="lname" id="tb-box2"/></td>
+<td><input type="text" name="lname" id="tb-box"/></td>
 </tr>
 <tr>
 <td class="t-1"><div align="left" id="tb-name">Email:</div></td>
-<td><input type="text" id="tb-box3" name="address" /></td>
+<td><input type="text" id="tb-box" name="address" /></td>
 </tr>
 <tr>
 <td class="t-1"><div align="left" id="tb-name">Username:</div></td>
-<td><input type="text" id="tb-box4" name="username" /></td>
+<td><input type="text" id="tb-box" name="username" /></td>
 </tr>
 <tr>
 <td class="t-1"><div align="left" id="tb-name">Password:</div></td>
-<td><input id="tb-box5" type="password" name="password" /></td>
+<td><input id="tb-box" type="password" name="password" /></td>
 </tr>
 </table>
 <div id="st"><input name="submit" type="submit" value="Submit" id="st-btn"/></div>
